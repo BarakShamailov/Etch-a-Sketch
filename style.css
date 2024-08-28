@@ -1,0 +1,35 @@
+div{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+
+.square{
+
+    border: 4px solid #3882F6;
+    border-radius: 12px;
+    margin: 1px;
+}
+
+.button-top{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+}
+#btn {
+    background-color: #3882F6;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 10px;
+    padding: 4px 8px;
+    width: 150px;
+    height: 50px;
+    margin-top: 8px;
+    border: 2px solid  #3882F6;
+}
